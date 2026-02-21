@@ -10,7 +10,7 @@ Log Activity — opens a LogActivity to create a persisted activity/log (prefill
 View Logs — opens LogsActivity to view saved logs. 
 
 Charts — ChartsActivity that shows sample line chart data using MPAndroidChart.
-
+ 
 Daily Tips (notifications) — a toggle to enable/disable automatic daily tips:
 
 When toggled ON the app shows an immediate test notification and schedules daily notifications (TipReceiver) at the configured time (default 9:00).
