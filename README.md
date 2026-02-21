@@ -6,7 +6,7 @@ What the app does (feature list)
 Home / Quick note — lets the user type a short note and update the screen text. 
 
 Log Activity — opens a LogActivity to create a persisted activity/log (prefill supported).
-
+ 
 View Logs — opens LogsActivity to view saved logs. 
 
 Charts — ChartsActivity that shows sample line chart data using MPAndroidChart.
