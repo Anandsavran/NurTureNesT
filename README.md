@@ -4,7 +4,7 @@ NurtureNest is a small parenting helper app focused on quick notes, activity log
 What the app does (feature list)
 
 Home / Quick note — lets the user type a short note and update the screen text. 
- 
+  
 Log Activity — opens a LogActivity to create a persisted activity/log (prefill supported).
   
 View Logs — opens LogsActivity to view saved logs.  
